@@ -221,7 +221,8 @@ URL: http://a2a67053da4f04a9eb9dac77ad7e09fd-2063731993.us-east-1.elb.amazonaws.
 
 <img width="1916" height="1003" alt="image" src="https://github.com/user-attachments/assets/5229fa28-1f51-4f21-a1fb-38c3d596181d" />
 
-<!-- SCREENSHOT: Add screenshot of successful login/registration -->
+<img width="2399" height="1266" alt="image" src="https://github.com/user-attachments/assets/8383acc9-dc09-40f1-8b92-3209dade7740" />
+
 
 ---
 
